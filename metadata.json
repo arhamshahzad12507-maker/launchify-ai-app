@@ -1,0 +1,7 @@
+{
+  "name": "Launchify Support AI",
+  "description": "The official AI Support Agent for Launchify Pakistan. Get expert guidance on e-commerce logistics, sourcing, and the Launchify Methodology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
